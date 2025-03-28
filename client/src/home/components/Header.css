@@ -1,0 +1,19 @@
+.container-header{
+
+    display: flex;
+    justify-content: space-between;
+    margin: 0 30px 0 30px;
+}
+
+img{
+    width: 100px;
+}
+.User-Icon{
+    color:brown;
+    margin-top: 40px;
+
+
+  
+    
+    
+}
